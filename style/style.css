@@ -1,0 +1,16 @@
+h1{
+    color:green;
+}
+
+p{
+    color: red;
+}
+
+.item{
+    font-size: 20px;
+    color: blue;
+}
+
+.container{
+    border: 5px solid black;
+}
